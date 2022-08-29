@@ -1,2 +1,2 @@
 # student-candidate-platform
-Student Registration Platform for University system
+Student Registration Platform for University System
